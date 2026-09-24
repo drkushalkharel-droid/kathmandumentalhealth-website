@@ -63,6 +63,10 @@
 - [How long are appointments?](https://kathmandumentalhealth.com.np/#faq-appointment-length)
 - [Will my appointment feel rushed?](https://kathmandumentalhealth.com.np/#faq-appointment-not-rushed)
 - [Do you accept insurance, or do I pay directly?](https://kathmandumentalhealth.com.np/#faq-insurance-or-out-of-pocket)
+- [Is there a psychiatrist near me in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-near-me)
+- [Is Kathmandu Mental Health Clinic a mental hospital?](https://kathmandumentalhealth.com.np/#faq-is-this-a-mental-hospital)
+- [Which areas do you serve?](https://kathmandumentalhealth.com.np/#faq-areas-we-serve)
+- [Can I get mental health care in Nepali?](https://kathmandumentalhealth.com.np/#faq-mental-health-in-nepali)
 - [Who founded Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-founded-kathmandu-mental-health-clinic)
 - [Who are the doctors at Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-are-the-doctors)
 - [What are your doctors' Nepal Medical Council registration numbers?](https://kathmandumentalhealth.com.np/#faq-nmc-registration-numbers)
@@ -74,6 +78,7 @@
 - [Are your doctors psychiatrists or general physicians?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-or-general-physician)
 - [Can I ask to see a female or male doctor or counsellor?](https://kathmandumentalhealth.com.np/#faq-doctor-gender-preference)
 - [Will the doctor explain my diagnosis and medicines clearly?](https://kathmandumentalhealth.com.np/#faq-doctor-explains-clearly)
+- [Do you have a therapist or psychologist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-therapist-or-psychologist)
 - [What mental health conditions do you treat?](https://kathmandumentalhealth.com.np/#faq-conditions-we-treat)
 - [Will I have to take medicine?](https://kathmandumentalhealth.com.np/#faq-will-i-have-to-take-medicine)
 - [Are psychiatric medicines addictive?](https://kathmandumentalhealth.com.np/#faq-are-psychiatric-medicines-addictive)
@@ -92,6 +97,12 @@
 - [Are psychiatric medicines safe?](https://kathmandumentalhealth.com.np/#faq-are-psychiatric-medicines-safe)
 - [Do psychiatric medicines have a lot of side effects?](https://kathmandumentalhealth.com.np/#faq-medicine-side-effects)
 - [Will I have to take medicine for life if I start psychiatric medicines?](https://kathmandumentalhealth.com.np/#faq-lifelong-medication)
+- [Do you assess and treat adult ADHD?](https://kathmandumentalhealth.com.np/#faq-adult-adhd)
+- [Can anxiety cause tingling legs, a racing heart, dry mouth and frequent urination?](https://kathmandumentalhealth.com.np/#faq-anxiety-physical-symptoms)
+- [Which medicine is used for anxiety?](https://kathmandumentalhealth.com.np/#faq-anxiety-medicine)
+- [How is OCD treated?](https://kathmandumentalhealth.com.np/#faq-ocd-treatment)
+- [What is the treatment for insomnia?](https://kathmandumentalhealth.com.np/#faq-insomnia-treatment)
+- [When should I take my child to a psychologist or psychiatrist?](https://kathmandumentalhealth.com.np/#faq-when-to-see-child-psychologist)
 - [Do you offer online psychiatric consultation within Nepal?](https://kathmandumentalhealth.com.np/#faq-online-consultation-in-nepal)
 - [Can I get a prescription after an online consultation?](https://kathmandumentalhealth.com.np/#faq-online-prescriptions)
 - [When should I come in person instead of consulting online?](https://kathmandumentalhealth.com.np/#faq-online-or-in-person)
@@ -124,6 +135,21 @@
 - [Can I get a summary of my assessment for my local doctor or employer?](https://kathmandumentalhealth.com.np/#faq-medical-summary-letter)
 - [What if my internet connection drops during the session?](https://kathmandumentalhealth.com.np/#faq-internet-drops)
 - [Will I be able to speak in Nepali about my feelings?](https://kathmandumentalhealth.com.np/#faq-no-language-barrier)
+
+## Guides
+
+- [How to Choose the Best Psychiatrist in Kathmandu](https://kathmandumentalhealth.com.np/blog/best-psychiatrist-in-kathmandu/): Searching for the best psychiatrist in Kathmandu or Nepal? Use this checklist: NMC registration, training, approach, language, fees and follow-up.
+- [Psychiatrist Near Me in Kathmandu: Locations, Online Options and What to Expect](https://kathmandumentalhealth.com.np/blog/psychiatrist-near-me-kathmandu/): Find a psychiatrist near you in Kathmandu: clinic locations at People's Plaza and Kalanki, online consultation across Nepal, what to bring and what to expect.
+- [Psychiatrist, Psychologist, Therapist or Counsellor: Who Should You See in Nepal?](https://kathmandumentalhealth.com.np/blog/psychiatrist-vs-psychologist-vs-therapist-nepal/): Not sure whether to see a psychiatrist, psychologist, therapist or counsellor in Kathmandu? Learn the differences, what each treats and how to choose.
+- [Mental Hospital or Psychiatric Clinic in Kathmandu? Choosing the Right Level of Care](https://kathmandumentalhealth.com.np/blog/mental-hospital-or-clinic-kathmandu/): Mental hospital or clinic in Kathmandu? Learn when an outpatient psychiatrist is enough, when hospital care is needed and what to do in an emergency.
+- [Anxiety Symptoms in the Body: Tingling Legs, Racing Heart, Dry Mouth and Frequent Urination](https://kathmandumentalhealth.com.np/blog/anxiety-symptoms-tingling-palpitations/): Why anxiety causes tingling legs, a pounding heart, dry mouth and frequent urination, how to tell it from other illnesses and when to see a psychiatrist.
+- [Anxiety Treatment in Nepal: Therapy, Medicines and What Actually Helps](https://kathmandumentalhealth.com.np/blog/anxiety-treatment-and-medicine-nepal/): Anxiety treatment and medicine in Nepal: CBT, common medicine types, how long they take, sedative risks and when to see an anxiety doctor in Kathmandu.
+- [Adult ADHD in Nepal: Signs, Assessment and Treatment](https://kathmandumentalhealth.com.np/blog/adult-adhd-nepal/): Adult ADHD in Nepal: common signs, how psychiatrists assess it, treatment options and coping strategies. Learn when to see an ADHD specialist in Kathmandu.
+- [OCD Treatment in Kathmandu: Symptoms, Therapy and Medicine](https://kathmandumentalhealth.com.np/blog/ocd-treatment-kathmandu/): OCD signs (washing, checking, intrusive thoughts), how OCD is treated with ERP therapy and medicine, and how to find an OCD specialist in Kathmandu.
+- [When to See a Child Psychologist or Child Psychiatrist in Kathmandu](https://kathmandumentalhealth.com.np/blog/child-psychologist-kathmandu/): Signs your child or teenager may need help, the difference between a child psychologist and psychiatrist, and what a first visit involves in Kathmandu.
+- [Mental Health in Nepal: Common Conditions, Stigma and Where to Get Help](https://kathmandumentalhealth.com.np/blog/mental-health-in-nepal-guide/): A plain guide to mental health in Nepal: common conditions, stigma and "what will people say", where to get help in Kathmandu and online, and helplines.
+- [मानसिक स्वास्थ्य: लक्षण, कारण र उपचार](https://kathmandumentalhealth.com.np/blog/mansik-swasthya-lakshan-upchar/): मानसिक स्वास्थ्य भनेको के हो? डिप्रेसन, चिन्ता, ओसीडी र अनिद्राका लक्षण, कारण, उपचार र काठमाडौँमा मनोचिकित्सकसँग कहिले परामर्श गर्ने भन्ने जानकारी।
+- [Can't Sleep? Insomnia Treatment and When to See a Sleep Doctor in Kathmandu](https://kathmandumentalhealth.com.np/blog/insomnia-treatment-kathmandu/): Insomnia causes, self-help steps that work, CBT for insomnia, the risks of sleeping pills and when to see a psychiatrist or sleep specialist in Kathmandu.
 
 ## Full text
 
