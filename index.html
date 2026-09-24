@@ -1185,6 +1185,7 @@
     </script>
   </head>
   <body>
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs><symbol id="i-phone" viewBox="0 0 24 24"><path fill="currentColor" d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></symbol><symbol id="i-wa" viewBox="0 0 24 24"><path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></symbol></defs></svg>
     <a class="skip-link" href="#top">Skip to content</a>
     <header class="site-header">
       <a class="brand" href="#top" aria-label="Kathmandu Mental Health home">
@@ -1199,7 +1200,7 @@
         <a href="#faq">FAQ</a>
         <a href="#visit">Visit us</a>
       </nav>
-      <a class="button button-small button-dark" href="#contact">Start a conversation <span aria-hidden="true">↗</span></a>
+      <div class="header-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
       <button class="menu-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">☰</button>
     </header>
 
@@ -1211,6 +1212,7 @@
       <a href="#faq">FAQ</a>
       <a href="#visit">Visit us</a>
       <a href="#contact">Start a conversation <span aria-hidden="true">↗</span></a>
+      <div class="mobile-menu-actions"><a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call 9714556408</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
     </div>
 
     <main id="top">
@@ -1228,8 +1230,10 @@
           <p class="hero-text">Psychiatric care and counselling for depression, anxiety, OCD, sleep problems, ADHD and addiction. Visit us in Kathmandu, or consult any of our three doctors online from anywhere in the world.</p>
           <div class="hero-actions">
             <a class="button button-primary" href="#contact">Book a consultation <span aria-hidden="true">↗</span></a>
-            <a class="text-link" href="#abroad">Nepali living abroad? <span aria-hidden="true">↓</span></a>
+            <a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call now</span></a>
+            <a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a>
           </div>
+          <a class="text-link hero-abroad-link" href="#abroad">Nepali living abroad? <span aria-hidden="true">↓</span></a>
           <div class="hero-note"><span class="note-icon">✦</span><span>Private, respectful, and<br />always judgement-free.</span></div>
         </div>
         <div class="hero-art" role="img" aria-label="Abstract calming illustration">
@@ -1266,7 +1270,7 @@
             <div><dt>Care</dt><dd>Psychiatric consultation, psychotherapy and counselling</dd></div>
             <div><dt>Who we help</dt><dd>Children, teenagers, adults, older adults, couples and families</dd></div>
             <div><dt>Locations</dt><dd>People's Plaza, New Road<br />Kalanki Bhatbhateni, Kathmandu</dd></div>
-            <div><dt>Call</dt><dd><a href="tel:+9779714556408">9714556408</a></dd></div>
+            <div><dt>Call</dt><dd><a href="tel:+9779714556408">9714556408</a> · <a href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener">WhatsApp</a></dd></div>
             <div><dt>Online</dt><dd>Online consultation and therapy with all three doctors, across Nepal and abroad</dd></div>
             <div><dt>Languages</dt><dd>Nepali · English</dd></div>
             <div><dt>Referral</dt><dd>Not required. Book directly.</dd></div>
@@ -1301,56 +1305,67 @@
               <span class="service-num">01</span>
               <h4>Psychiatric Consultation &amp; Medication Management</h4>
               <p>Comprehensive diagnosis, evaluation, and medical treatment planning by a certified psychiatrist.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Psychiatric%20Consultation%20%26%20Medication%20Management" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-counseling-psychotherapy">
               <span class="service-num">02</span>
               <h4>Mental Health Counseling &amp; Psychotherapy</h4>
               <p>Individual counseling for emotional well-being, stress, life transitions, and personal growth.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Mental%20Health%20Counseling%20%26%20Psychotherapy" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-depression-mood">
               <span class="service-num">03</span>
               <h4>Depression &amp; Mood Disorder Treatment</h4>
               <p>Specialist care and therapeutic support for clinical depression, bipolar disorder, and mood swings.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Depression%20%26%20Mood%20Disorder%20Treatment" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-anxiety-panic">
               <span class="service-num">04</span>
               <h4>Anxiety &amp; Panic Attack Therapy</h4>
               <p>Professional care for generalized anxiety, panic attacks, social anxiety, and phobias.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Anxiety%20%26%20Panic%20Attack%20Therapy" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-stress-burnout">
               <span class="service-num">05</span>
               <h4>Stress &amp; Burnout Counseling</h4>
               <p>Counseling designed to help professionals and students manage stress, burnout, and mental fatigue.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Stress%20%26%20Burnout%20Counseling" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-ocd-anxiety">
               <span class="service-num">06</span>
               <h4>OCD &amp; Anxiety Care</h4>
               <p>Structured behavioral counseling and clinical support for obsessive-compulsive disorder and related conditions.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20OCD%20%26%20Anxiety%20Care" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-sleep-insomnia">
               <span class="service-num">07</span>
               <h4>Sleep &amp; Insomnia Management</h4>
               <p>Medical and therapeutic evaluation for chronic sleep problems, insomnia, and sleep disruption.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Sleep%20%26%20Insomnia%20Management" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-deaddiction-substance">
               <span class="service-num">08</span>
               <h4>De-addiction &amp; Substance Use Counseling</h4>
               <p>Professional guidance, assessment, and supportive counseling for addiction and recovery.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20De-addiction%20%26%20Substance%20Use%20Counseling" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-relationship-couples">
               <span class="service-num">09</span>
               <h4>Relationship &amp; Couples Counseling</h4>
               <p>Therapeutic support to resolve relationship conflict, improve communication, and restore emotional connection.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Relationship%20%26%20Couples%20Counseling" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-child-adolescent-psychiatry">
               <span class="service-num">10</span>
               <h4>Child &amp; Adolescent Psychiatry</h4>
               <p>Specialized mental health assessment, behavioral guidance, and counseling for children and teens.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Child%20%26%20Adolescent%20Psychiatry" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-telepsychiatry">
               <span class="service-num">11</span>
               <h4>Telepsychiatry &amp; Online Mental Health Care</h4>
               <p>Remote psychiatric consultation and online therapy sessions for patients across Nepal.</p>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Telepsychiatry%20%26%20Online%20Mental%20Health%20Care" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
           </div>
         </div>
@@ -1363,61 +1378,70 @@
               <h4>Mental Health &amp; Psychiatry<span class="ne-title" lang="ne">मनोचिकित्सा तथा मानसिक स्वास्थ्य</span></h4>
               <p>Assessment and treatment of mental health conditions by a psychiatrist, from first consultation to follow-up.</p>
               <ul class="kw" lang="ne"><li>मनोचिकित्सक</li><li>मानसिक रोग विशेषज्ञ</li><li>साइकेट्रिस्ट</li><li>मानसिक स्वास्थ्य परामर्श</li><li>मानसिक रोगको उपचार</li><li>मानसिक समस्या</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Mental%20Health%20%26%20Psychiatry" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-depression-anxiety-care">
               <span class="service-num">02</span>
               <h4>Depression &amp; Anxiety Care<span class="ne-title" lang="ne">डिप्रेसन तथा चिन्ता रोग उपचार</span></h4>
               <p>Care for low mood, constant worry, panic attacks, overthinking, and everyday stress.</p>
               <ul class="kw" lang="ne"><li>डिप्रेसन</li><li>डिप्रेसनको उपचार</li><li>चिन्ता रोग</li><li>चिन्ता रोगको उपचार</li><li>अत्यधिक चिन्ता</li><li>तनाव</li><li>तनाव व्यवस्थापन</li><li>डर तथा आत्तिने समस्या</li><li>प्यानिक अट्याक</li><li>ओभरथिंकिङ</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Depression%20%26%20Anxiety%20Care" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-sleep-disorders">
               <span class="service-num">03</span>
               <h4>Sleep Disorders &amp; Insomnia Management<span class="ne-title" lang="ne">अनिद्रा तथा निद्रा सम्बन्धी उपचार</span></h4>
               <p>Help for people who cannot fall asleep, wake often, or never feel rested.</p>
               <ul class="kw" lang="ne"><li>निन्द्रा नलाग्ने</li><li>अनिद्रा</li><li>राम्रो निद्रा नआउने</li><li>निद्राको समस्या</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Sleep%20Disorders%20%26%20Insomnia%20Management" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-ocd-behavioral-therapy">
               <span class="service-num">04</span>
               <h4>OCD &amp; Behavioral Therapy<span class="ne-title" lang="ne">ओसीडी तथा अनावश्यक विचार उपचार</span></h4>
               <p>Treatment for obsessive thoughts and repeated checking, washing, or counting habits.</p>
               <ul class="kw" lang="ne"><li>OCD</li><li>ओसीडी</li><li>बारम्बार हात धुने बानी</li><li>अनावश्यक विचार आउने समस्या</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20OCD%20%26%20Behavioral%20Therapy" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-child-adolescent-mental-health">
               <span class="service-num">05</span>
               <h4>Child &amp; Adolescent Mental Health<span class="ne-title" lang="ne">बाल तथा किशोर मानसिक स्वास्थ्य</span></h4>
               <p>Assessment and support for ADHD, autism, behaviour and attention concerns, and teenage mental health.</p>
               <ul class="kw" lang="ne"><li>ADHD</li><li>एडीएचडी</li><li>अटिजम</li><li>अटिजम मूल्यांकन</li><li>बच्चाको व्यवहार समस्या</li><li>बच्चामा ध्यान नदिने समस्या</li><li>किशोर मानसिक स्वास्थ्य</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Child%20%26%20Adolescent%20Mental%20Health" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-addiction-deaddiction">
               <span class="service-num">06</span>
               <h4>Addiction &amp; De-addiction Counseling<span class="ne-title" lang="ne">लत तथा दुर्व्यसन उपचार</span></h4>
               <p>Non-judgemental help to cut down or quit alcohol, tobacco, and drugs, with family support where wanted.</p>
               <ul class="kw" lang="ne"><li>मदिरा लत</li><li>रक्सीको लत</li><li>लागूपदार्थ दुर्व्यसन</li><li>लागूऔषध दुर्व्यसन</li><li>धूम्रपान छोड्ने उपचार</li><li>चुरोटको लत</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Addiction%20%26%20De-addiction%20Counseling" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-severe-mental-illness">
               <span class="service-num">07</span>
               <h4>Severe Mental Illness Care<span class="ne-title" lang="ne">गम्भीर मानसिक रोग उपचार</span></h4>
               <p>Long-term, steady care for schizophrenia, bipolar disorder, and other serious conditions.</p>
               <ul class="kw" lang="ne"><li>स्किजोफ्रेनिया</li><li>बाइपोलार डिसअर्डर</li><li>मानसिक भ्रम</li><li>आवाज सुन्ने समस्या</li><li>शंका गर्ने बानी</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Severe%20Mental%20Illness%20Care" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-memory-geriatric">
               <span class="service-num">08</span>
               <h4>Memory &amp; Geriatric Psychiatry<span class="ne-title" lang="ne">स्मरणशक्ति तथा जेष्ठ नागरिक मानसिक स्वास्थ्य</span></h4>
               <p>Evaluation of memory loss and mental health support for older adults and their families.</p>
               <ul class="kw" lang="ne"><li>बिर्सने समस्या</li><li>स्मरणशक्ति कमजोर</li><li>डिमेन्सिया</li><li>अल्जाइमर</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Memory%20%26%20Geriatric%20Psychiatry" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
             <article class="service-card reveal" id="svc-online-second-opinion">
               <span class="service-num">09</span>
               <h4>Online Consultation &amp; Second Opinion<span class="ne-title" lang="ne">अनलाइन तथा दोस्रो राय परामर्श</span></h4>
               <p>Video consultation with a psychiatrist, or a fresh look at a diagnosis or treatment you already have.</p>
               <ul class="kw" lang="ne"><li>अनलाइन परामर्श</li><li>भिडियो परामर्श</li><li>मानसिक स्वास्थ्य परामर्श</li><li>मनोचिकित्सकसँग परामर्श</li><li>दोस्रो राय (Second Opinion)</li></ul>
+              <div class="svc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20know%20more%20about%3A%20Online%20Consultation%20%26%20Second%20Opinion" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </article>
           </div>
         </div>
 
         <div class="services-cta">
           <p>Not sure which service you need? Call us and describe what you are going through. We will point you to the right person.</p>
-          <a class="button button-light" href="tel:+9779714556408">Call 9714556408 <span aria-hidden="true">↗</span></a>
+          <div class="cta-pair"><a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call 9714556408</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20am%20not%20sure%20which%20service%20I%20need.%20Can%20you%20help%20me%3F" target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
         </div>
       </section>
 
@@ -1436,7 +1460,7 @@
               <p class="doctor-role">Founder &amp; Consultant Psychiatrist</p>
               <ul class="creds"><li><strong>MD Neuropsychiatry</strong><span>KIST Medical College</span></li><li><strong>MBBS</strong><span>Jalalabad Medical College</span></li><li><strong>CBT</strong><span>Provides cognitive behavioural therapy</span></li><li><strong>NMC No.</strong><span>27199 · Nepal Medical Council</span></li><li><strong>Online</strong><span>Online consultation and therapy</span></li></ul>
               <p class="doctor-bio">Dr. Kushal Kharel is the founder of Kathmandu Mental Health Clinic and Psychiatry Counseling Center and a consultant psychiatrist. Dr. Kharel completed an MBBS at Jalalabad Medical College and an MD in Neuropsychiatry at KIST Medical College, and provides cognitive behavioural therapy (CBT) alongside medical assessment and treatment.</p>
-              <a class="text-link dark-link" href="#contact">Book with Dr. Kharel <span aria-hidden="true">↗</span></a>
+              <div class="card-actions"><a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment%20with%20Dr.%20Kushal%20Kharel." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </div>
           </article>
           <article class="doctor-card reveal" data-doctor="2" id="dr-sunita-lama">
@@ -1447,7 +1471,7 @@
               <p class="doctor-role">Consultant Psychiatrist</p>
               <ul class="creds"><li><strong>MD Neuropsychiatry</strong><span>Gandaki Medical College</span></li><li><strong>MBBS</strong><span>Jalalabad Medical College</span></li><li><strong>CBT</strong><span>Certified in cognitive behavioural therapy</span></li><li><strong>NMC No.</strong><span>26944 · Certified by the Nepal Medical Council</span></li><li><strong>Online</strong><span>Online consultation and therapy</span></li></ul>
               <p class="doctor-bio">Dr. Sunita Lama is a consultant psychiatrist certified by the Nepal Medical Council, and is also certified in cognitive behavioural therapy (CBT). Dr. Lama brings together medical training in neuropsychiatry and structured CBT skills, so care can include talk therapy, medicine, or both, depending on what helps you.</p>
-              <a class="text-link dark-link" href="#contact">Book with Dr. Lama <span aria-hidden="true">↗</span></a>
+              <div class="card-actions"><a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment%20with%20Dr.%20Sunita%20Lama." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </div>
           </article>
           <article class="doctor-card reveal" data-doctor="3" id="dr-bhishma-kc">
@@ -1458,7 +1482,7 @@
               <p class="doctor-role">Psychiatrist</p>
               <ul class="creds"><li><strong>MD Neuropsychiatry</strong><span>KIST Medical College</span></li><li><strong>MBBS</strong><span>Nepal Medical College</span></li><li><strong>CBT</strong><span>Provides cognitive behavioural therapy</span></li><li><strong>NMC No.</strong><span>21985 · Nepal Medical Council</span></li><li><strong>Online</strong><span>Online consultation and therapy</span></li></ul>
               <p class="doctor-bio">Dr. Bhishma K.C. is a psychiatrist with an MBBS from Nepal Medical College and an MD in Neuropsychiatry from KIST Medical College. Dr. K.C. offers medical assessment, treatment planning and cognitive behavioural therapy (CBT), so care can include talk therapy, medicine, or both, depending on what helps you.</p>
-              <a class="text-link dark-link" href="#contact">Book with Dr. K.C. <span aria-hidden="true">↗</span></a>
+              <div class="card-actions"><a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment%20with%20Dr.%20Bhishma%20K.C.." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
             </div>
           </article>
         </div>
@@ -1478,8 +1502,8 @@
               <li>Follow-ups online, in person when you visit home</li>
             </ul>
             <div class="abroad-cta">
-              <a class="button button-primary" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener">Book on WhatsApp <span aria-hidden="true">↗</span></a>
-              <a class="button button-outline" href="tel:+9779714556408">Call +9779714556408 <span aria-hidden="true">↗</span></a>
+              <a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20am%20a%20Nepali%20living%20abroad%20and%20would%20like%20to%20book%20an%20online%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>Book on WhatsApp</span></a>
+              <a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call +9779714556408</span></a>
             </div>
           </div>
           <div class="orbit reveal" aria-hidden="true">
@@ -1521,6 +1545,10 @@
             <li class="step reveal"><span class="step-num">3</span><h4>Meet by video</h4><p>You receive a private link. Your first session is a full assessment, and you leave with a clear plan.</p></li>
             <li class="step reveal"><span class="step-num">4</span><h4>Keep going</h4><p>Follow-ups by video, and in person whenever you are back in Nepal. Care that stays with you, wherever you live.</p></li>
           </ol>
+          <div class="abroad-cta abroad-cta-steps">
+            <a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20am%20a%20Nepali%20living%20abroad%20and%20would%20like%20to%20book%20an%20online%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>Start on WhatsApp</span></a>
+            <a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call +9779714556408</span></a>
+          </div>
         </div>
 
         <div class="abroad-block" id="time-finder">
@@ -1607,6 +1635,10 @@
                 <div class="tf-bar" aria-hidden="true"><i data-role="marker"></i></div>
               </li>
             </ul>
+            <div class="tf-actions">
+              <a class="button btn-wa" id="tf-wa" data-wa="https://wa.me/9779714556408" href="https://wa.me/9779714556408?text=Hello%2C%20I%20am%20a%20Nepali%20living%20abroad%20and%20would%20like%20to%20book%20an%20online%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>Book this time on WhatsApp</span></a>
+              <a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call to book</span></a>
+            </div>
             <p class="tf-foot">Your country is not listed? We see Nepalis in every time zone. Message us and we will find a time.</p>
           </div>
         </div>
@@ -1711,8 +1743,8 @@
             </details>
           </div>
           <div class="abroad-cta abroad-cta-end">
-            <a class="button button-primary" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener">Book an online session <span aria-hidden="true">↗</span></a>
-            <a class="button button-outline" href="tel:+9779714556408">Call +9779714556408 <span aria-hidden="true">↗</span></a>
+            <a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20am%20a%20Nepali%20living%20abroad%20and%20would%20like%20to%20book%20an%20online%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>Book an online session</span></a>
+            <a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call +9779714556408</span></a>
           </div>
           <p class="abroad-safety"><strong>In crisis abroad?</strong> This clinic is not an emergency service. Call your local emergency number now. Helplines by country: <a href="https://findahelpline.com" target="_blank" rel="noopener">findahelpline.com</a> · <a href="https://www.befrienders.org" target="_blank" rel="noopener">befrienders.org</a>.</p>
         </div>
@@ -1955,24 +1987,28 @@
               <div class="faq-answer"><p>No. Do not stop or change any medicine on your own before the visit. Bring a list of what you take, or the medicines themselves, so the doctor can review them with you. Any changes are made as part of a proper assessment.</p></div>
             </details>
         </div>
-        <p class="faq-empty" id="faq-empty" hidden>No questions match your search. <a href="#contact">Call us</a> and we will be happy to answer.</p>
+        <p class="faq-empty" id="faq-empty" hidden>No questions match your search. <a href="tel:+9779714556408">Call us</a> or <a href="https://wa.me/9779714556408?text=Hello%2C%20I%20have%20a%20question%20about%20Kathmandu%20Mental%20Health%20Clinic." target="_blank" rel="noopener">message us on WhatsApp</a> and we will be happy to answer.</p>
+        <div class="faq-cta">
+          <p><strong>Still have a question?</strong> Ask us directly. We reply in Nepali or English.</p>
+          <div class="cta-pair"><a class="button btn-call" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call 9714556408</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20have%20a%20question%20about%20Kathmandu%20Mental%20Health%20Clinic." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>Ask on WhatsApp</span></a></div>
+        </div>
         <p class="faq-updated">Page last updated September 2026. This information is general and does not replace advice from a doctor.</p>
       </section>
 
       <section class="visit section" id="visit">
         <div class="section-label">[ 06 — Find us ]</div>
         <div class="visit-grid">
-          <div><p class="eyebrow"><span class="eyebrow-dot"></span> Kathmandu, Nepal</p><h2>A calm place to<br /><em>start again.</em></h2><p class="visit-copy">Kathmandu Mental health Clinic and Psychiatry counseling Center is here when you are ready to begin. Choose the location that is most convenient for you, then call to confirm your visit.</p><a class="button button-primary" href="tel:+9779714556408">Call 9714556408 <span aria-hidden="true">↗</span></a></div>
+          <div><p class="eyebrow"><span class="eyebrow-dot"></span> Kathmandu, Nepal</p><h2>A calm place to<br /><em>start again.</em></h2><p class="visit-copy">Kathmandu Mental health Clinic and Psychiatry counseling Center is here when you are ready to begin. Choose the location that is most convenient for you, then call to confirm your visit.</p><div class="cta-pair"><a class="button button-primary" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call 9714556408</span></a><a class="button btn-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div></div>
           <div class="location-panel">
-            <article class="location-card"><span class="location-number">01</span><div><h3>People's Plaza</h3><address>Dev Plaza, People's Plaza,<br /><span lang="ne">नयाँ सडक</span>, Kathmandu,<br />Bagmati Province 44600</address><a href="https://maps.app.goo.gl/vTvMYgTLpbLqXHbT7" target="_blank" rel="noopener">Open in Google Maps ↗</a></div></article>
-            <article class="location-card"><span class="location-number">02</span><div><h3>Kalanki Bhatbhateni</h3><address>Kalanki Bhatbhateni,<br />Kathmandu, Nepal</address><a href="tel:+9779714556408">Call for directions ↗</a></div></article>
+            <article class="location-card"><span class="location-number">01</span><div><h3>People's Plaza</h3><address>Dev Plaza, People's Plaza,<br /><span lang="ne">नयाँ सडक</span>, Kathmandu,<br />Bagmati Province 44600</address><a href="https://maps.app.goo.gl/vTvMYgTLpbLqXHbT7" target="_blank" rel="noopener">Open in Google Maps ↗</a><div class="loc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20visit%20the%20People%27s%20Plaza%20clinic." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div></div></article>
+            <article class="location-card"><span class="location-number">02</span><div><h3>Kalanki Bhatbhateni</h3><address>Kalanki Bhatbhateni,<br />Kathmandu, Nepal</address><a href="tel:+9779714556408">Call for directions ↗</a><div class="loc-actions"><a class="button btn-call btn-sm" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a><a class="button btn-wa btn-sm" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20visit%20the%20Kalanki%20Bhatbhateni%20clinic." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div></div></article>
             <div class="hours-card"><span class="hours-icon">◷</span><div><strong>Saturday hours</strong><p>5:00 AM – 11:00 PM <span>· Open all day</span></p></div></div>
           </div>
         </div>
       </section>
 
       <section class="contact section" id="contact">
-        <div class="contact-inner"><p class="eyebrow"><span class="eyebrow-dot"></span> Your next step can be small</p><h2>Ready to make<br /><em>space for you?</em></h2><p>Call the clinic to ask a question or arrange your first consultation, in person or online.</p><div class="contact-actions"><a class="button button-light" href="tel:+9779714556408">Call 9714556408 <span aria-hidden="true">↗</span></a><a class="button button-ghost" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener">WhatsApp us <span aria-hidden="true">↗</span></a></div><p class="contact-note">Please note: this is not an emergency service. If you are in immediate danger, contact local emergency services or someone you trust. In Nepal: Police 100 · Ambulance 102 · Suicide prevention helpline 1166.</p></div>
+        <div class="contact-inner"><p class="eyebrow"><span class="eyebrow-dot"></span> Your next step can be small</p><h2>Ready to make<br /><em>space for you?</em></h2><p>Call the clinic to ask a question or arrange your first consultation, in person or online.</p><div class="contact-actions"><a class="button button-light" href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call 9714556408</span></a><a class="button button-ghost" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp us</span></a></div><p class="contact-note">Please note: this is not an emergency service. If you are in immediate danger, contact local emergency services or someone you trust. In Nepal: Police 100 · Ambulance 102 · Suicide prevention helpline 1166.</p></div>
       </section>
     </main>
 
@@ -1983,8 +2019,13 @@
         <nav class="footer-links" aria-label="Footer navigation"><a href="#services">Services</a><a href="#doctors">Doctors</a><a href="#abroad">Nepalis abroad</a><a href="#faq">FAQ</a><a href="#visit">Visit us</a></nav>
         <p>© <span id="year"></span> Kathmandu Mental Health</p>
       </div>
+      <div class="footer-contact"><a href="tel:+9779714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call 9714556408</span></a><a href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a></div>
       <p class="footer-disclaimer">This website provides general information and is not a substitute for professional medical advice, diagnosis or treatment. If you are in an emergency, call your local emergency number. In Nepal: Police 100 · Ambulance 102 · Suicide prevention helpline 1166.</p>
     </footer>
+    <div class="contact-dock" role="group" aria-label="Contact us quickly">
+      <a class="dock-btn dock-call" href="tel:+9779714556408" aria-label="Call the clinic on 9714556408"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-phone"/></svg><span>Call</span></a>
+      <a class="dock-btn dock-wa" href="https://wa.me/9779714556408?text=Hello%2C%20I%20would%20like%20to%20book%20a%20consultation." target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp"><svg class="ico" aria-hidden="true" focusable="false"><use href="#i-wa"/></svg><span>WhatsApp</span></a>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>

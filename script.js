@@ -100,6 +100,7 @@ if (tfRange) {
   const NEPAL_TZ = "Asia/Kathmandu";
   const tfOut = document.querySelector("#tf-out");
   const tfNow = document.querySelector("#tf-now");
+  const tfWa = document.querySelector("#tf-wa");
   const rows = [...document.querySelectorAll(".tf-row")];
   let live = true;
 
@@ -142,6 +143,10 @@ if (tfRange) {
     const nepalDay = Math.floor((instant.getTime() + nepalOffset * 60000) / 86400000);
 
     tfOut.textContent = formatClock(minutes);
+    if (tfWa) {
+      const message = `Hello, I would like to book an online consultation. My preferred time is ${formatClock(minutes)} Kathmandu time.`;
+      tfWa.href = `${tfWa.dataset.wa}?text=${encodeURIComponent(message)}`;
+    }
     tfRange.setAttribute("aria-valuetext", `${formatClock(minutes)} in Kathmandu`);
 
     rows.forEach((row) => {

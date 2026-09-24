@@ -326,3 +326,103 @@ address{color:var(--muted);font-size:14px;line-height:1.55;margin:0 0 12px}
   .hero-art{min-height:370px}
   .site-header .brand strong{font-size:18px}
 }
+
+
+/* ==========================================================================
+   Call + WhatsApp buttons everywhere, plus a floating dock
+   ========================================================================== */
+:root{--wa:#0d8239;--wa-dark:#0a6b2f}
+.ico{display:inline-block;flex:none;height:1.2em;vertical-align:-.22em;width:1.2em}
+.btn-call,.btn-wa{gap:9px;min-height:44px}
+.btn-call{background:var(--deep);color:#fff}
+.btn-call:hover{background:var(--ink)}
+.btn-wa{background:var(--wa);color:#fff}
+.btn-wa:hover{background:var(--wa-dark)}
+.btn-sm{font-size:12.5px;min-height:38px;padding:9px 14px}
+.button-light .ico,.button-ghost .ico,.button-primary .ico{margin-right:9px}
+.button-light,.button-ghost,.button-primary{gap:0}
+.button-primary span[aria-hidden]{margin-left:16px}
+
+/* on dark sections the call button turns light so it stays visible */
+.services .btn-call,.abroad .btn-call{background:#f1f3ed;color:var(--ink)}
+.services .btn-call:hover,.abroad .btn-call:hover{background:#fff}
+.services .btn-wa,.abroad .btn-wa{box-shadow:0 0 0 1px rgba(255,255,255,.35)}
+
+/* header */
+.header-actions{align-items:center;display:flex;gap:10px}
+.header-actions .button{min-height:40px}
+
+/* hero */
+.hero-actions{flex-wrap:wrap;gap:12px}
+.hero-abroad-link{display:inline-block;margin-top:22px}
+
+/* cards */
+.card-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
+.card-actions .button{flex:1 1 130px}
+.svc-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:20px}
+.svc-actions .button{flex:1 1 110px;font-size:12px;min-height:38px;padding:8px 12px}
+.kw{margin:0;padding:18px 0 0}
+.loc-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.location-card .loc-actions a.button{border-bottom:0;color:#fff;font-size:12.5px;padding:9px 14px}
+
+/* strips in the middle of sections */
+.cta-pair{display:flex;flex-wrap:wrap;gap:10px}
+.abroad-cta-steps{margin-top:44px}
+.tf-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
+.faq-cta{align-items:center;background:var(--deep);color:#fff;display:flex;flex-wrap:wrap;gap:18px 30px;justify-content:space-between;margin-top:44px;padding:26px 30px}
+.faq-cta p{margin:0;max-width:420px}
+.faq-cta .btn-call{background:#f1f3ed;color:var(--ink)}
+.faq-cta .btn-call:hover{background:#fff}
+.services-cta .cta-pair{flex:none}
+
+/* mobile menu */
+.mobile-menu .mobile-menu-actions{display:grid;gap:10px;margin-top:14px}
+.mobile-menu .mobile-menu-actions a.button{display:inline-flex;padding:14px 18px}
+.mobile-menu .mobile-menu-actions .btn-call{background:#f1f3ed;color:var(--ink)}
+
+/* footer */
+.footer-contact{display:flex;flex-wrap:wrap;gap:12px 26px}
+.footer-contact a{align-items:center;color:#fff;display:inline-flex;font-size:13px;font-weight:600;gap:9px}
+.footer-contact a:hover{color:var(--gold)}
+.footer-contact .ico{color:var(--gold)}
+
+/* floating dock: pills bottom-right on desktop, a full-width bar on phones */
+.contact-dock{bottom:22px;display:flex;flex-direction:column;gap:10px;position:fixed;right:22px;z-index:90}
+.dock-btn{align-items:center;border-radius:999px;box-shadow:0 8px 24px rgba(31,41,39,.28);color:#fff;display:inline-flex;font-size:14px;font-weight:700;gap:10px;height:52px;justify-content:center;padding:0 22px 0 18px;transition:transform .2s,box-shadow .2s,background .2s}
+.dock-btn:hover{box-shadow:0 12px 30px rgba(31,41,39,.36);transform:translateY(-2px)}
+.dock-call{background:var(--ink)}
+.dock-call:hover{background:var(--deep)}
+.dock-wa{background:var(--wa)}
+.dock-wa:hover{background:var(--wa-dark)}
+.dock-btn .ico{height:22px;width:22px}
+@media(min-width:721px) and (max-width:1100px){
+  .dock-btn span{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}
+  .dock-btn{height:54px;padding:0;width:54px}
+}
+@media print{.contact-dock{display:none}}
+
+@media(max-width:960px){
+  .header-actions{margin-left:auto}
+  .faq-cta{padding:22px}
+}
+@media(max-width:720px){
+  .header-actions{gap:8px;margin-left:auto}
+  .header-actions .button{border-radius:50%;height:44px;min-height:44px;padding:0;width:44px}
+  .header-actions .button span{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}
+  .header-actions .ico{height:20px;width:20px}
+  .menu-toggle{margin-left:4px}
+  .hero-actions{align-items:stretch;flex-direction:row;flex-wrap:wrap;gap:10px}
+  .hero-actions .button-primary{flex:1 1 100%}
+  .hero-actions .btn-call,.hero-actions .btn-wa{flex:1 1 calc(50% - 6px)}
+  .cta-pair{width:100%}
+  .cta-pair .button{flex:1 1 calc(50% - 5px);padding-left:10px;padding-right:10px;white-space:nowrap}
+  .tf-actions .button{flex:1 1 100%}
+  .faq-cta .cta-pair{width:100%}
+  .services-cta .cta-pair{width:100%}
+  .abroad-cta .button{width:100%}
+  body{padding-bottom:calc(58px + env(safe-area-inset-bottom))}
+  .contact-dock{background:#fff;bottom:0;box-shadow:0 -6px 22px rgba(31,41,39,.16);flex-direction:row;gap:0;left:0;padding-bottom:env(safe-area-inset-bottom);right:0}
+  .dock-btn{border-radius:0;box-shadow:none;flex:1;height:58px;padding:0}
+  .dock-btn:hover{box-shadow:none;transform:none}
+  .dock-btn span{display:inline;font-size:15px;position:static;height:auto;width:auto;margin:0;clip:auto;overflow:visible}
+}
