@@ -13,12 +13,13 @@
 - Online: all three doctors provide online consultation and therapy by video across Nepal and abroad (Nepali or English)
 - Referral needed: No
 - Emergency: not an emergency service. In Nepal call Police 100, Ambulance 102, or suicide prevention helpline 1166.
+- Editorial standards: https://kathmandumentalhealth.com.np/about/
 
 ## Doctors
 
-- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/#dr-kushal-kharel): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Online: Online consultation and therapy
-- [Dr. Sunita Lama](https://kathmandumentalhealth.com.np/#dr-sunita-lama): Consultant Psychiatrist; MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Online: Online consultation and therapy
-- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/#dr-bhishma-kc): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Online: Online consultation and therapy
+- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Online: Online consultation and therapy
+- [Dr. Sunita Lama](https://kathmandumentalhealth.com.np/doctors/dr-sunita-lama/): Consultant Psychiatrist; MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Online: Online consultation and therapy
+- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Online: Online consultation and therapy
 
 ## Services
 
@@ -43,10 +44,33 @@
 - [Memory & Geriatric Psychiatry / स्मरणशक्ति तथा जेष्ठ नागरिक मानसिक स्वास्थ्य](https://kathmandumentalhealth.com.np/#svc-memory-geriatric): Evaluation of memory loss and mental health support for older adults and their families.
 - [Online Consultation & Second Opinion / अनलाइन तथा दोस्रो राय परामर्श](https://kathmandumentalhealth.com.np/#svc-online-second-opinion): Video consultation with a psychiatrist, or a fresh look at a diagnosis or treatment you already have.
 
+## Conditions
+
+- [Depression Treatment in Kathmandu: Signs, Types and What Helps](https://kathmandumentalhealth.com.np/conditions/depression-treatment-kathmandu/): Depression signs, causes and treatment in Kathmandu: therapy, antidepressants, recovery and when to see a psychiatrist. Nepali or English, in person or online.
+- [Bipolar Disorder Treatment in Kathmandu: Symptoms, Diagnosis and Long-Term Care](https://kathmandumentalhealth.com.np/conditions/bipolar-disorder-treatment-kathmandu/): Bipolar disorder in Kathmandu: signs of mania and depression, how it is diagnosed, mood-stabilising treatment, family support and living well long term.
+- [Schizophrenia and Psychosis in Kathmandu: Signs, Treatment and Family Support](https://kathmandumentalhealth.com.np/conditions/schizophrenia-psychosis-treatment-kathmandu/): Schizophrenia and psychosis in Kathmandu: hearing voices, false beliefs and withdrawal, how they are treated, why early care matters and how families can help.
+- [Addiction and De-addiction Treatment in Kathmandu: Alcohol, Tobacco and Drugs](https://kathmandumentalhealth.com.np/conditions/addiction-deaddiction-treatment-kathmandu/): Alcohol, tobacco and drug addiction treatment in Kathmandu: signs of dependence, safe withdrawal, counselling, medicines and family support. Confidential care.
+- [Dementia and Memory Loss in Older Adults in Kathmandu: Signs, Assessment and Support](https://kathmandumentalhealth.com.np/conditions/dementia-memory-loss-elderly-kathmandu/): Memory loss and dementia in Kathmandu: warning signs, causes that can be treated, how it is assessed and how families can care for an older parent.
+- [Autism Assessment in Kathmandu: Signs, Process and Next Steps](https://kathmandumentalhealth.com.np/conditions/autism-assessment-kathmandu/): Autism assessment in Kathmandu: early signs in children, how a psychiatrist assesses autism, the difference from ADHD and speech delay, and support afterwards.
+- [Panic Attacks and Panic Disorder in Kathmandu: Symptoms, Causes and Treatment](https://kathmandumentalhealth.com.np/conditions/panic-attack-treatment-kathmandu/): Panic attacks in Kathmandu: what they feel like, why they happen, what to do during one, and how CBT and medicine treat panic disorder. See a psychiatrist.
+- [Stress, Burnout and Exam Pressure in Kathmandu: Signs and How to Recover](https://kathmandumentalhealth.com.np/conditions/stress-burnout-counselling-kathmandu/): Stress, burnout and exam pressure in Kathmandu: warning signs, what helps, when stress becomes anxiety or depression, and counselling from psychiatrists.
+
 ## Nepalis abroad
 
-- [Online psychiatry and counselling for Nepalis abroad](https://kathmandumentalhealth.com.np/#abroad): private video sessions for Nepalis in Qatar, UAE, Saudi Arabia, Kuwait, Malaysia, Japan, South Korea, Australia, the UK, Europe, USA and Canada, with a time-zone finder.
+- [Online psychiatry and counselling for Nepalis abroad](https://kathmandumentalhealth.com.np/nepalis-abroad/): private video sessions for Nepalis in Qatar, UAE, Saudi Arabia, Kuwait, Malaysia, Japan, South Korea, Australia, the UK, Europe, USA and Canada, with a time-zone finder.
 - [Abroad FAQ](https://kathmandumentalhealth.com.np/#abroad-faq)
+- [Online Psychiatrist for Nepalis in Qatar](https://kathmandumentalhealth.com.np/nepalis-abroad/qatar/): Nepali-speaking psychiatrists online for Nepalis in Qatar: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in the UAE](https://kathmandumentalhealth.com.np/nepalis-abroad/uae/): Nepali-speaking psychiatrists online for Nepalis in the UAE: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Saudi Arabia](https://kathmandumentalhealth.com.np/nepalis-abroad/saudi-arabia/): Nepali-speaking psychiatrists online for Nepalis in Saudi Arabia: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Kuwait](https://kathmandumentalhealth.com.np/nepalis-abroad/kuwait/): Nepali-speaking psychiatrists online for Nepalis in Kuwait: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Malaysia](https://kathmandumentalhealth.com.np/nepalis-abroad/malaysia/): Nepali-speaking psychiatrists online for Nepalis in Malaysia: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Japan](https://kathmandumentalhealth.com.np/nepalis-abroad/japan/): Nepali-speaking psychiatrists online for Nepalis in Japan: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in South Korea](https://kathmandumentalhealth.com.np/nepalis-abroad/south-korea/): Nepali-speaking psychiatrists online for Nepalis in South Korea: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Australia](https://kathmandumentalhealth.com.np/nepalis-abroad/australia/): Nepali-speaking psychiatrists online for Nepalis in Australia: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in the United Kingdom](https://kathmandumentalhealth.com.np/nepalis-abroad/united-kingdom/): Nepali-speaking psychiatrists online for Nepalis in the United Kingdom: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Europe](https://kathmandumentalhealth.com.np/nepalis-abroad/europe/): Nepali-speaking psychiatrists online for Nepalis in Europe: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in the USA](https://kathmandumentalhealth.com.np/nepalis-abroad/usa/): Nepali-speaking psychiatrists online for Nepalis in the USA: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
+- [Online Psychiatrist for Nepalis in Canada](https://kathmandumentalhealth.com.np/nepalis-abroad/canada/): Nepali-speaking psychiatrists online for Nepalis in Canada: private video consultation, time-zone booking and urgent-help numbers. Book by WhatsApp.
 
 ## Frequently asked questions
 
@@ -153,6 +177,9 @@
 - [Mental Health in Nepal: Common Conditions, Stigma and Where to Get Help](https://kathmandumentalhealth.com.np/blog/mental-health-in-nepal-guide/): A plain guide to mental health in Nepal: common conditions, stigma and "what will people say", where to get help in Kathmandu and online, and helplines.
 - [मानसिक स्वास्थ्य: लक्षण, कारण र उपचार](https://kathmandumentalhealth.com.np/blog/mansik-swasthya-lakshan-upchar/): मानसिक स्वास्थ्य भनेको के हो? डिप्रेसन, चिन्ता, ओसीडी र अनिद्राका लक्षण, कारण, उपचार र काठमाडौँमा मनोचिकित्सकसँग कहिले परामर्श गर्ने भन्ने जानकारी।
 - [Can't Sleep? Insomnia Treatment and When to See a Sleep Doctor in Kathmandu](https://kathmandumentalhealth.com.np/blog/insomnia-treatment-kathmandu/): Insomnia causes, self-help steps that work, CBT for insomnia, the risks of sleeping pills and when to see a psychiatrist or sleep specialist in Kathmandu.
+- [डिप्रेसन: लक्षण, कारण र उपचार](https://kathmandumentalhealth.com.np/blog/dipresan-lakshan-upchar/): डिप्रेसन भनेको के हो? लक्षण, कारण, औषधि र परामर्शबाट हुने उपचार, र काठमाडौँमा मनोचिकित्सकलाई कहिले भेट्ने भन्ने जानकारी।
+- [चिन्ता रोग (एन्जाइटी): लक्षण, कारण र उपचार](https://kathmandumentalhealth.com.np/blog/chinta-rog-anxiety-lakshan-upchar/): चिन्ता रोग र प्यानिक अट्याकका लक्षण: मुटु धड्कने, खुट्टा झमझम हुने, मुख सुक्ने, पिसाब बारम्बार आउने। कारण, उपचार र चिकित्सकलाई कहिले देखाउने।
+- [लत तथा दुर्व्यसन: रक्सी, चुरोट र लागूपदार्थको उपचार](https://kathmandumentalhealth.com.np/blog/lat-durbyasan-upchar/): रक्सी, धूम्रपान र लागूपदार्थको लतका लक्षण, अचानक छाड्दा हुने जोखिम, परामर्श, औषधि र परिवारको भूमिका। काठमाडौँमा गोप्य उपचार।
 
 ## Full text
 
