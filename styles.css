@@ -730,3 +730,5 @@ html[lang="ne"] .further h2{letter-spacing:0;text-transform:none;font-family:"No
 .reviews-widget{margin:0 0 22px;min-height:120px}
 @media(max-width:960px){.find-grid{grid-template-columns:1fr}.map-embed,.map-embed iframe{min-height:360px}}
 @media(max-width:720px){.reviews-card{padding:26px 22px}.review-actions .button{flex:1 1 100%}.map-embed,.map-embed iframe{min-height:320px}}
+.post-meta .reviewed{color:var(--deep);flex-basis:100%;font-weight:600}
+.post-meta .reviewed a{border-bottom:1px solid #b9c0ba}
