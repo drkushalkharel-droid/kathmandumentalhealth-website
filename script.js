@@ -41,8 +41,62 @@ if ("IntersectionObserver" in window && !reducedMotion) {
   revealEls.forEach((el) => observer.observe(el));
 }
 
-/* ---------- FAQ: topic filter, search, deep links ---------- */
+/* ---------- collapsible sections: smooth open/close ---------- */
+document.addEventListener("click", (event) => {
+  const summary = event.target.closest("details.smooth > summary");
+  if (!summary || reducedMotion || !summary.parentElement.animate) return;
+  if (event.target.closest("a, button")) return;
+  const details = summary.parentElement;
+  const body = details.querySelector(":scope > .d-body");
+  if (!body) return;
+  event.preventDefault();
+  if (details._anim) {
+    details._anim.cancel();
+    body.style.cssText = "";
+    details._anim = null;
+  }
+  const opening = !details.open;
+  if (opening) details.open = true;
+  const height = body.offsetHeight;
+  body.style.overflow = "hidden";
+  const frames = opening ? { height: ["0px", `${height}px`], opacity: [0, 1] } : { height: [`${height}px`, "0px"], opacity: [1, 0] };
+  const anim = body.animate(frames, { duration: 260, easing: "ease" });
+  details._anim = anim;
+  anim.onfinish = () => {
+    if (!opening) details.open = false;
+    body.style.cssText = "";
+    details._anim = null;
+  };
+});
+
+/* ---------- phones: start with the service groups closed ---------- */
+if (window.matchMedia("(max-width: 720px)").matches) {
+  document.querySelectorAll("#services .service-group").forEach((group) => (group.open = false));
+}
+
+/* ---------- expand all / collapse all ---------- */
+const expandButtons = [...document.querySelectorAll("[data-expand]")];
+const syncExpandButtons = () => {
+  expandButtons.forEach((btn) => {
+    const targets = [...document.querySelectorAll(btn.dataset.expand)];
+    const allOpen = targets.length > 0 && targets.every((d) => d.open);
+    btn.setAttribute("aria-pressed", String(allOpen));
+    btn.querySelector("span").textContent = allOpen ? "Collapse all" : "Expand all";
+  });
+};
+expandButtons.forEach((btn) =>
+  btn.addEventListener("click", () => {
+    const open = btn.getAttribute("aria-pressed") !== "true";
+    document.querySelectorAll(btn.dataset.expand).forEach((d) => (d.open = open));
+    syncExpandButtons();
+  })
+);
+document.addEventListener("toggle", syncExpandButtons, true);
+
+/* ---------- FAQ: topic filter, search, short list first, deep links ---------- */
 const faqList = document.querySelector("#faq-list");
+const FAQ_SHORT_LIST = 8;
+let faqApi = null;
 
 if (faqList) {
   const faqItems = [...faqList.querySelectorAll(".faq-item")];
@@ -50,19 +104,31 @@ if (faqList) {
   const searchBox = document.querySelector("#faq-search");
   const countEl = document.querySelector("#faq-count");
   const emptyEl = document.querySelector("#faq-empty");
+  const moreWrap = document.querySelector("#faq-more-wrap");
+  const moreBtn = document.querySelector("#faq-more");
   let activeFilter = "all";
+  let showAll = false;
 
   const applyFaqFilter = () => {
     const query = searchBox.value.trim().toLowerCase();
+    const unfiltered = activeFilter === "all" && !query;
+    let matched = 0;
     let shown = 0;
     faqItems.forEach((item) => {
       const matchesTopic = activeFilter === "all" || item.dataset.cat === activeFilter;
       const matchesText = !query || item.textContent.toLowerCase().includes(query);
-      item.hidden = !(matchesTopic && matchesText);
+      const isMatch = matchesTopic && matchesText;
+      if (isMatch) matched += 1;
+      item.hidden = !(isMatch && (!unfiltered || showAll || matched <= FAQ_SHORT_LIST));
       if (!item.hidden) shown += 1;
     });
-    countEl.textContent = `${shown} ${shown === 1 ? "question" : "questions"}`;
+    countEl.textContent =
+      unfiltered && !showAll && matched > shown
+        ? `Showing ${shown} of ${matched} questions`
+        : `${shown} ${shown === 1 ? "question" : "questions"}`;
     emptyEl.hidden = shown !== 0;
+    moreWrap.hidden = !(unfiltered && matched > FAQ_SHORT_LIST);
+    moreBtn.textContent = showAll ? "Show fewer questions" : `Show all ${matched} questions`;
   };
 
   chips.forEach((chip) => {
@@ -73,25 +139,40 @@ if (faqList) {
     });
   });
   searchBox.addEventListener("input", applyFaqFilter);
+  moreBtn.addEventListener("click", () => {
+    showAll = !showAll;
+    applyFaqFilter();
+    if (!showAll) faqList.scrollIntoView({ block: "start", behavior: "smooth" });
+  });
+  faqApi = {
+    reveal() {
+      activeFilter = "all";
+      showAll = true;
+      searchBox.value = "";
+      chips.forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.filter === "all")));
+      applyFaqFilter();
+    },
+  };
   applyFaqFilter();
 }
 
-const openFaqFromHash = () => {
-  const target = location.hash ? document.getElementById(decodeURIComponent(location.hash.slice(1))) : null;
-  if (!target || !target.classList.contains("faq-item")) return;
-  if (target.hidden) {
-    document.querySelector('.faq-chip[data-filter="all"]')?.click();
-    const searchBox = document.querySelector("#faq-search");
-    if (searchBox?.value) {
-      searchBox.value = "";
-      searchBox.dispatchEvent(new Event("input"));
+/* ---------- links that point inside a collapsed section open it ---------- */
+const openFromHash = () => {
+  if (!location.hash) return;
+  const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  if (!target) return;
+  if (target.classList.contains("faq-item") && target.hidden) faqApi?.reveal();
+  let opened = false;
+  for (let el = target; el && el !== document.body; el = el.parentElement) {
+    if (el.tagName === "DETAILS" && !el.open) {
+      el.open = true;
+      opened = true;
     }
   }
-  target.open = true;
-  target.scrollIntoView({ block: "center" });
+  if (opened) target.scrollIntoView({ block: "center" });
 };
-window.addEventListener("hashchange", openFaqFromHash);
-openFaqFromHash();
+window.addEventListener("hashchange", openFromHash);
+openFromHash();
 
 /* ---------- Nepalis abroad: time finder ---------- */
 const tfRange = document.querySelector("#tf-range");

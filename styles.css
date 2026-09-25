@@ -517,3 +517,105 @@ html[lang="ne"] .post-body p,html[lang="ne"] .post-body li,html[lang="ne"] .post
   .compare td[data-label]::before{color:var(--coral-ink);content:attr(data-label);display:block;font-size:10.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
   .guides-head{margin-bottom:30px}
 }
+
+
+/* ==========================================================================
+   Compact page: collapsible sections that open on click (all content stays in the HTML)
+   ========================================================================== */
+.section{padding-bottom:84px;padding-top:84px}
+details.smooth>summary{cursor:pointer;list-style:none}
+details.smooth>summary::-webkit-details-marker{display:none}
+
+/* quick facts: Nepali summary */
+.ne-details{border-left:2px solid var(--coral);margin:0 0 26px;max-width:580px;padding-left:18px}
+.ne-details>summary{color:var(--deep);cursor:pointer;font-size:14px;font-weight:600;list-style:none;padding:4px 0}
+.ne-details>summary::-webkit-details-marker{display:none}
+.ne-details>summary::after{color:var(--coral);content:" +";font-weight:400}
+.ne-details[open]>summary::after{content:" –"}
+.ne-details .quick-ne{border:0;margin:10px 0 4px;padding:0}
+
+/* services */
+.services-heading{margin-bottom:38px}
+.services-tools{align-items:center;display:flex;flex-wrap:wrap;gap:14px 24px;justify-content:space-between;margin:0 0 38px}
+.services-tools p{color:#c1d0c6;font-size:14px;margin:0}
+.expand-all{background:transparent;border:1px solid rgba(255,255,255,.45);border-radius:2px;color:#fff;cursor:pointer;font:inherit;font-size:12.5px;font-weight:600;padding:10px 18px}
+.expand-all:hover{background:rgba(255,255,255,.12)}
+.service-group+.service-group{margin-top:52px}
+.group-title{margin-bottom:20px}
+.service-grid{align-items:start;gap:12px}
+.service-card{display:block;padding:0}
+.service-card>summary{align-items:flex-start;display:flex;gap:14px;padding:20px 20px}
+.service-card>summary::after{color:var(--gold);content:"+";flex:none;font-size:26px;line-height:1;margin-left:auto;transition:transform .25s}
+.service-card[open]>summary::after{transform:rotate(45deg)}
+.service-card .service-num{flex:none;padding-top:5px}
+.service-card h4{flex:1;font-size:19px;margin:0}
+.service-card[open]{background:rgba(255,255,255,.1);border-color:rgba(233,180,119,.6)}
+.service-more{padding:0 20px 22px 46px}
+.service-more p{margin:0}
+.kw{margin:0;padding:16px 0 0}
+.svc-actions{padding-top:18px}
+
+/* doctors */
+.doctor-grid{align-items:start;margin-top:44px}
+.doctor-photo{height:290px}
+.doc-more{border-bottom:1px solid #e1e3dc;border-top:1px solid #e1e3dc;margin:16px 0 18px}
+.doc-more>summary{align-items:center;color:var(--deep);cursor:pointer;display:flex;font-size:13px;font-weight:600;justify-content:space-between;padding:13px 0}
+.doc-more>summary::after{color:var(--coral);content:"+";font-size:22px;font-weight:400;line-height:1;transition:transform .25s}
+.doc-more[open]>summary::after{transform:rotate(45deg)}
+.doc-more .creds{border-top:0;margin-top:2px}
+.doc-more .doctor-bio{margin:0 0 6px}
+
+/* Nepalis abroad: the long blocks become one-line rows */
+.abroad-strip{margin-bottom:60px}
+.abroad-block{border-top:1px solid rgba(230,243,231,.25);margin:0}
+.abroad-block:last-of-type{border-bottom:1px solid rgba(230,243,231,.25)}
+.abroad-block>summary{align-items:center;column-gap:24px;display:grid;grid-template-columns:1fr auto;padding:30px 0;row-gap:6px}
+.abroad-block>summary .block-title{font-size:clamp(1.7rem,3vw,2.5rem);grid-column:1;margin:0}
+.abroad-block .ab-sub{color:#b8c9bd;font-size:14px;grid-column:1;grid-row:2}
+.abroad-block>summary::after{align-items:center;border:1px solid rgba(255,255,255,.4);border-radius:50%;color:#fff;content:"+";display:flex;font-size:24px;grid-column:2;grid-row:1/span 2;height:46px;justify-content:center;line-height:1;transition:transform .25s,background .25s;width:46px}
+.abroad-block>summary:hover::after{background:rgba(255,255,255,.12)}
+.abroad-block[open]>summary::after{transform:rotate(45deg)}
+.abroad-block>.d-body{padding:6px 0 56px}
+.abroad-block .faq-list{margin-top:4px}
+
+/* FAQ: show a short list first */
+.faq-more-wrap{margin-top:26px;text-align:center}
+.faq-more-wrap[hidden]{display:none}
+.faq-item.smooth>summary{padding:20px 0}
+
+@media(max-width:720px){
+  .section{padding-bottom:56px;padding-top:56px}
+  .service-card>summary{padding:18px 16px}
+  .service-more{padding:0 16px 20px 16px}
+  .abroad-block>summary{padding:24px 0}
+  .abroad-block>summary::after{height:40px;width:40px}
+  .abroad-strip{margin-bottom:36px}
+  .services-tools{margin-bottom:26px}
+  .doctor-photo{height:280px}
+}
+@media(prefers-reduced-motion:reduce){details.smooth>summary::after{transition:none}}
+
+
+/* service groups are tap-to-open rows too */
+.service-group>summary{align-items:center;display:flex;gap:16px}
+.service-group>summary .group-title{border-bottom:0;flex:1;margin:0;padding:0}
+.service-group>summary::after{align-items:center;border:1px solid rgba(255,255,255,.4);border-radius:50%;color:#fff;content:"+";display:flex;flex:none;font-size:22px;height:38px;justify-content:center;line-height:1;transition:transform .25s;width:38px}
+.service-group[open]>summary::after{transform:rotate(45deg)}
+.service-group{border-bottom:1px solid rgba(230,243,231,.25);border-top:1px solid rgba(230,243,231,.25);padding:20px 0}
+.service-group+.service-group{border-top:0;margin-top:0}
+.service-group>.d-body{padding-top:22px}
+.swipe-hint{display:none}
+
+/* phones: doctors and guides become swipeable rows */
+@media(max-width:720px){
+  .service-group{padding:16px 0}
+  .service-group>summary .group-title{font-size:1.35rem}
+  .doctor-grid,#guides .blog-grid{display:flex;gap:14px;margin-left:-20px;margin-right:-20px;max-width:none;overflow-x:auto;padding:4px 20px 16px;scroll-padding:0 20px;scroll-snap-type:x mandatory;scrollbar-width:none}
+  .doctor-grid::-webkit-scrollbar,#guides .blog-grid::-webkit-scrollbar{display:none}
+  .doctor-grid>.doctor-card,#guides .blog-card{flex:0 0 84%;scroll-snap-align:center}
+  .js .doctor-card.reveal,.js #guides .blog-card.reveal{opacity:1;transform:none}
+  .swipe-hint{color:var(--muted);display:block;font-size:12px;letter-spacing:.06em;margin:2px 0 0;text-align:center}
+  .guides-all{margin-top:22px}
+  .services-cta{margin-top:26px;padding-top:24px}
+}
+.services-cta{margin-top:48px;padding-top:30px}
