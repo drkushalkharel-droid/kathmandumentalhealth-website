@@ -116,7 +116,7 @@ The fee depends on the doctor and the type of visit, such as a first assessment,
 No. If you or someone else is in immediate danger, call Nepal Police on 100, an ambulance on 102, or the national suicide prevention helpline 1166, or go to the nearest hospital emergency department. If you are in another country, call that country's emergency number.
 
 ### Where is the clinic located in Kathmandu?
-We have two locations in Kathmandu: Dev Plaza, People's Plaza, New Road (नयाँ सडक), and Kalanki Bhatbhateni. Call 9714556408 to confirm which location suits you and which doctor is available. You can also open People's Plaza in Google Maps.
+We have two locations in Kathmandu: Dev Plaza, People's Plaza, New Road (नयाँ सडक), and Kalanki Bhatbhateni. You can also meet us by video from a place where you feel safe. Call 9714556408 to confirm which option suits you and which doctor is available. You can also open People's Plaza in Google Maps.
 
 ### What are your opening hours?
 The clinic is open on Saturdays from 5:00 AM to 11:00 PM. Because doctors' schedules differ by location and day, please call 9714556408 to confirm the time before you come. We are not a 24-hour service.
@@ -141,6 +141,9 @@ We see patients in person at People's Plaza (New Road) and Kalanki in Kathmandu,
 
 ### Can I get mental health care in Nepali?
 Yes. Our doctors see patients in Nepali or English, and you can describe how you feel in your own language. You can also read our Nepali guide, मानसिक स्वास्थ्य: लक्षण, कारण र उपचार.
+
+### Do you offer home visits for psychiatry?
+Yes, on request. Home visits suit people who cannot easily travel, such as older adults or people too unwell or anxious to leave home. Call 9714556408 to ask about availability, the area, the timing and the fee for your address. Read our guide to home visit psychiatry.
 
 ### Who founded Kathmandu Mental Health Clinic?
 Kathmandu Mental Health Clinic was founded by Dr. Kushal Kharel, a consultant psychiatrist registered with the Nepal Medical Council (NMC No. 27199). Dr. Kharel completed an MBBS at Jalalabad Medical College and an MD in Neuropsychiatry at KIST Medical College, and works with Dr. Sunita Lama and Dr. Bhishma K.C., who are also NMC-registered psychiatrists.
@@ -259,6 +262,9 @@ Yes, where it is clinically appropriate and in line with standard telepsychiatry
 ### When should I come in person instead of consulting online?
 In-person visits are generally advised for severe symptoms, safety concerns, a complex first assessment, or situations that need a physical examination, so that the doctor can evaluate you thoroughly.
 
+### Where should I sit for a video consultation?
+Choose a private, quiet place where you feel safe and can speak freely, such as your bedroom or a quiet room where you will not be interrupted. If other people are nearby, headphones help. Make sure your phone or computer is charged and your connection is steady, and keep a phone number ready in case the video drops.
+
 ### Is what I tell the doctor kept private?
 Yes. Your conversations and records are confidential. We do not share anything with your family, employer or school without your permission, except in the rare situation where someone's life is at serious risk or the law requires it.
 
@@ -297,6 +303,11 @@ Key points: There is no official "best psychiatrist" ranking. Choose on qualific
 https://kathmandumentalhealth.com.np/blog/psychiatrist-near-me-kathmandu/
 Find a psychiatrist near you in Kathmandu: clinic locations at People's Plaza and Kalanki, online consultation across Nepal, what to bring and what to expect.
 Key points: Choose a Nepal Medical Council-registered psychiatrist at a location you can reach without stress. Kathmandu Mental Health Clinic has two locations: People's Plaza (New Road) and Kalanki Bhatbhateni. If travel is difficult, all three of our doctors consult online across Nepal and abroad. Call ahead: doctors' schedules differ by location and day.
+
+### Home Visit Psychiatry in Kathmandu: When a Psychiatrist Can See You at Home
+https://kathmandumentalhealth.com.np/blog/home-visit-psychiatrist-kathmandu/
+Home visit psychiatry in Kathmandu: who it helps, what a psychiatrist can do at home, how it differs from video and clinic care, and how to arrange one.
+Key points: A home visit brings the psychiatrist to you when travelling to a clinic is hard, tiring or frightening. It can help older adults, people with severe anxiety or depression who cannot leave home, people with limited mobility, and families who want assessment in familiar surroundings. A home visit is not an emergency service. In a crisis call 100, 102 or 1166 and go to an emergency department. Home visits are arranged by phone or WhatsApp. Availability, area, timing and the fee are confirmed when you book.
 
 ### Psychiatrist, Psychologist, Therapist or Counsellor: Who Should You See in Nepal?
 https://kathmandumentalhealth.com.np/blog/psychiatrist-vs-psychologist-vs-therapist-nepal/
