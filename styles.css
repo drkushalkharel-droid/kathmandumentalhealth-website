@@ -619,3 +619,12 @@ details.smooth>summary::-webkit-details-marker{display:none}
   .services-cta{margin-top:26px;padding-top:24px}
 }
 .services-cta{margin-top:48px;padding-top:30px}
+
+
+/* label on every psychiatrist photo: degree + title */
+.photo-caption{background:linear-gradient(to top,rgba(31,41,39,.94) 0%,rgba(31,41,39,.82) 58%,rgba(31,41,39,0) 100%);bottom:0;display:flex;flex-direction:column;gap:3px;left:0;padding:40px 18px 14px;position:absolute;right:0}
+.photo-caption strong{color:var(--gold);font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+.photo-caption span{color:#fff;font-size:13px;font-weight:700;letter-spacing:.09em;text-transform:uppercase}
+@media(max-width:720px){.photo-caption{padding:36px 16px 12px}.photo-caption strong{font-size:10.5px}.photo-caption span{font-size:12.5px}}
+
+.nowrap{display:inline-block;white-space:nowrap}
