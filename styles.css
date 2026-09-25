@@ -712,3 +712,21 @@ html[lang="ne"] .further h2{letter-spacing:0;text-transform:none;font-family:"No
 .doctor-body h3 a{color:inherit;transition:color .2s}
 .doctor-body h3 a:hover{color:var(--coral-ink)}
 .guides-head p a{border-bottom:1px solid #b9c0ba;color:var(--deep)}
+
+/* ---- map + patient reviews */
+.find-grid{align-items:stretch;display:grid;gap:22px;grid-template-columns:1.25fr .75fr;margin-top:34px}
+.map-embed{background:#d9e0d6;min-height:430px;position:relative}
+.map-embed iframe{border:0;display:block;height:100%;left:0;min-height:430px;position:absolute;top:0;width:100%}
+.reviews-card{background:var(--deep);color:#fff;display:flex;flex-direction:column;justify-content:center;padding:34px 32px}
+.reviews-eyebrow{color:#e6b579;font-size:11px;font-weight:700;letter-spacing:.12em;margin:0 0 6px;text-transform:uppercase}
+.reviews-card h3{font-family:"Playfair Display",serif;font-size:clamp(1.9rem,3vw,2.5rem);font-weight:600;letter-spacing:-.03em;line-height:1.05;margin:0 0 14px}
+.reviews-card h3 em{color:#e6b579}
+.reviews-card p{color:#c9d7cd;font-size:14.5px;line-height:1.7;margin:0 0 20px}
+.reviews-card .review-note{font-size:12px;margin:18px 0 0}
+.reviews-card .review-note a{border-bottom:1px solid rgba(255,255,255,.4);color:#fff;white-space:nowrap}
+.review-actions{display:flex;flex-wrap:wrap;gap:10px}
+.reviews-card .button-dark{background:#f1f3ed;color:var(--ink)}
+.reviews-card .button-dark:hover{background:#fff}
+.reviews-widget{margin:0 0 22px;min-height:120px}
+@media(max-width:960px){.find-grid{grid-template-columns:1fr}.map-embed,.map-embed iframe{min-height:360px}}
+@media(max-width:720px){.reviews-card{padding:26px 22px}.review-actions .button{flex:1 1 100%}.map-embed,.map-embed iframe{min-height:320px}}

@@ -1,6 +1,6 @@
 # Kathmandu Mental Health Clinic and Psychiatry Counseling Center
 
-> Psychiatry and counselling clinic in Kathmandu, Nepal. Psychiatrists and counsellors treat depression, anxiety, OCD, sleep problems, ADHD, addiction, bipolar disorder and memory concerns for children, teenagers and adults, in person at People's Plaza (New Road) and Kalanki, or online by video for Nepalis living abroad. Languages: Nepali and English. Phone: +9779714556408.
+> Psychiatry and counselling clinic in Kathmandu, Nepal. Psychiatrists and counsellors treat depression, anxiety, OCD, sleep problems, ADHD, addiction, bipolar disorder and memory concerns for children, teenagers and adults, in person at People's Plaza (New Road) and Kalanki, or online by video for Nepalis living abroad. Languages: Nepali, English, Hindi, Bangla and Tamang (varies by doctor). Phone: +9779714556408.
 
 ## Key facts
 
@@ -14,12 +14,14 @@
 - Referral needed: No
 - Emergency: not an emergency service. In Nepal call Police 100, Ambulance 102, or suicide prevention helpline 1166.
 - Editorial standards: https://kathmandumentalhealth.com.np/about/
+- Google Business Profile: https://maps.app.goo.gl/dFKuH2jprogKzV8p8 (patient reviews: https://search.google.com/local/reviews?placeid=ChIJ08xB7PsZ6zkRFLft4nzNWcU)
+- Note: Dr. Kushal Kharel also runs a separate, independent psychiatry clinic in Kalanki (https://drkushalkharel.com.np); it is not this clinic.
 
 ## Doctors
 
-- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Online: Online consultation and therapy
-- [Dr. Sunita Lama](https://kathmandumentalhealth.com.np/doctors/dr-sunita-lama/): Consultant Psychiatrist; MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Online: Online consultation and therapy
-- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Online: Online consultation and therapy
+- [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla; Online: Online consultation and therapy
+- [Dr. Sunita Lama](https://kathmandumentalhealth.com.np/doctors/dr-sunita-lama/): Consultant Psychiatrist; MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla, Tamang; Online: Online consultation and therapy
+- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Languages: Nepali, English, Hindi; Online: Online consultation and therapy
 
 ## Services
 
@@ -92,6 +94,7 @@
 - [Which areas do you serve?](https://kathmandumentalhealth.com.np/#faq-areas-we-serve)
 - [Can I get mental health care in Nepali?](https://kathmandumentalhealth.com.np/#faq-mental-health-in-nepali)
 - [Do you offer home visits for psychiatry?](https://kathmandumentalhealth.com.np/#faq-home-visit-psychiatrist)
+- [Where can I read patient reviews of the clinic?](https://kathmandumentalhealth.com.np/#faq-patient-reviews)
 - [Who founded Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-founded-kathmandu-mental-health-clinic)
 - [Who are the doctors at Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-are-the-doctors)
 - [What are your doctors' Nepal Medical Council registration numbers?](https://kathmandumentalhealth.com.np/#faq-nmc-registration-numbers)
@@ -104,6 +107,9 @@
 - [Can I ask to see a female or male doctor or counsellor?](https://kathmandumentalhealth.com.np/#faq-doctor-gender-preference)
 - [Will the doctor explain my diagnosis and medicines clearly?](https://kathmandumentalhealth.com.np/#faq-doctor-explains-clearly)
 - [Do you have a therapist or psychologist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-therapist-or-psychologist)
+- [Which languages do your doctors speak?](https://kathmandumentalhealth.com.np/#faq-doctor-languages)
+- [Is Kathmandu Mental Health Clinic the same as Dr. Kushal Kharel's clinic in Kalanki?](https://kathmandumentalhealth.com.np/#faq-kharel-independent-clinic)
+- [Does Dr. Kushal Kharel write for the media?](https://kathmandumentalhealth.com.np/#faq-dr-kharel-nagarik-news)
 - [What mental health conditions do you treat?](https://kathmandumentalhealth.com.np/#faq-conditions-we-treat)
 - [Will I have to take medicine?](https://kathmandumentalhealth.com.np/#faq-will-i-have-to-take-medicine)
 - [Are psychiatric medicines addictive?](https://kathmandumentalhealth.com.np/#faq-are-psychiatric-medicines-addictive)

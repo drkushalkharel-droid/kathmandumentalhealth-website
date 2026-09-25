@@ -261,3 +261,21 @@ if (tfRange) {
   setInterval(() => live && snapToNow(), 30000);
   snapToNow();
 }
+
+// Optional third-party reviews widget: fetch its script only when the reviews card is about to be seen.
+const reviewsBox = document.querySelector(".reviews-widget[data-script]");
+if (reviewsBox) {
+  const loadReviews = () => {
+    const s = document.createElement("script");
+    s.src = reviewsBox.dataset.script;
+    s.async = true;
+    document.body.appendChild(s);
+  };
+  if (!("IntersectionObserver" in window)) loadReviews();
+  else {
+    const io = new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting)) { io.disconnect(); loadReviews(); }
+    }, { rootMargin: "400px" });
+    io.observe(reviewsBox);
+  }
+}

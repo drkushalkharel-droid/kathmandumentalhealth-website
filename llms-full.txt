@@ -2,23 +2,23 @@
 
 Psychiatry and counselling clinic in Kathmandu, Nepal.
 
-Phone: +9779714556408 · Locations: People's Plaza (New Road) and Kalanki Bhatbhateni, Kathmandu · Languages: Nepali, English
+Phone: +9779714556408 · Locations: People's Plaza (New Road) and Kalanki Bhatbhateni, Kathmandu · Languages: Nepali, English, Hindi, Bangla, Tamang (varies by doctor)
 
 ## Doctors
 
 ### Dr. Kushal Kharel
 https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/
-Consultant Psychiatrist. MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Online: Online consultation and therapy.
+Consultant Psychiatrist. MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla; Online: Online consultation and therapy.
 Dr. Kushal Kharel is the founder of Kathmandu Mental Health Clinic and Psychiatry Counseling Center and a consultant psychiatrist. Dr. Kharel completed an MBBS at Jalalabad Medical College and an MD in Neuropsychiatry at KIST Medical College, and provides cognitive behavioural therapy (CBT) alongside medical assessment and treatment.
 
 ### Dr. Sunita Lama
 https://kathmandumentalhealth.com.np/doctors/dr-sunita-lama/
-Consultant Psychiatrist. MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Online: Online consultation and therapy.
+Consultant Psychiatrist. MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla, Tamang; Online: Online consultation and therapy.
 Dr. Sunita Lama is a consultant psychiatrist certified by the Nepal Medical Council, and is also certified in cognitive behavioural therapy (CBT). Dr. Lama brings together medical training in neuropsychiatry and structured CBT skills, so care can include talk therapy, medicine, or both, depending on what helps you.
 
 ### Dr. Bhishma K.C.
 https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/
-Consultant Psychiatrist. MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Online: Online consultation and therapy.
+Consultant Psychiatrist. MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Languages: Nepali, English, Hindi; Online: Online consultation and therapy.
 Dr. Bhishma K.C. is a consultant psychiatrist with an MBBS from Nepal Medical College and an MD in Neuropsychiatry from KIST Medical College. Dr. K.C. offers medical assessment, treatment planning and cognitive behavioural therapy (CBT), so care can include talk therapy, medicine, or both, depending on what helps you.
 
 ## Services
@@ -143,10 +143,13 @@ No. We are an outpatient psychiatry and counselling clinic, and we are not an em
 We see patients in person at People's Plaza (New Road) and Kalanki in Kathmandu, and people travel to us from across the valley, including Lalitpur, Bhaktapur and Balkot. Online consultation is available across Nepal and worldwide, in Nepali or English.
 
 ### Can I get mental health care in Nepali?
-Yes. Our doctors see patients in Nepali or English, and you can describe how you feel in your own language. You can also read our Nepali guide, मानसिक स्वास्थ्य: लक्षण, कारण र उपचार.
+Yes. Our doctors see patients in Nepali or English, and depending on the doctor also in Hindi, Bangla or Tamang, so you can describe how you feel in your own language. You can also read our Nepali guide, मानसिक स्वास्थ्य: लक्षण, कारण र उपचार.
 
 ### Do you offer home visits for psychiatry?
 Yes, on request. Home visits suit people who cannot easily travel, such as older adults or people too unwell or anxious to leave home. Call 9714556408 to ask about availability, the area, the timing and the fee for your address. Read our guide to home visit psychiatry.
+
+### Where can I read patient reviews of the clinic?
+Patients review us on Google, and the reviews are written by patients, not by the clinic. You can read Google reviews, and if you have visited us you can write a review. Please do not include private health details in a public review.
 
 ### Who founded Kathmandu Mental Health Clinic?
 Kathmandu Mental Health Clinic was founded by Dr. Kushal Kharel, a consultant psychiatrist registered with the Nepal Medical Council (NMC No. 27199). Dr. Kharel completed an MBBS at Jalalabad Medical College and an MD in Neuropsychiatry at KIST Medical College, and works with Dr. Sunita Lama and Dr. Bhishma K.C., who are also NMC-registered consultant psychiatrists.
@@ -183,6 +186,15 @@ Yes. Consultations are designed so that you understand what a diagnosis means, w
 
 ### Do you have a therapist or psychologist in Kathmandu?
 Our doctors are psychiatrists who also provide therapy, including cognitive behavioural therapy (CBT) and supportive counselling, alongside medical care. If a specialised therapy would suit you better, we can refer you to a clinical psychologist. Read who to see: psychiatrist, psychologist, therapist or counsellor.
+
+### Which languages do your doctors speak?
+Dr. Kushal Kharel and Dr. Sunita Lama speak Nepali, English, Hindi and Bangla, and Dr. Lama also speaks Tamang. Dr. Bhishma K.C. speaks Nepali, English and Hindi. Tell us your preferred language when you book and we will do our best to arrange a doctor who speaks it, in person or online.
+
+### Is Kathmandu Mental Health Clinic the same as Dr. Kushal Kharel's clinic in Kalanki?
+No, they are separate. Dr. Kushal Kharel founded Kathmandu Mental Health Clinic and Psychiatry Counseling Center, and he also runs his own independent psychiatry clinic in Kalanki (drkushalkharel.com.np). The doctors, fees and booking described on this website are for Kathmandu Mental Health Clinic; to book here, call 9714556408.
+
+### Does Dr. Kushal Kharel write for the media?
+Yes. Dr. Kharel is a contributing writer for Nagarik News. You can read his articles on his Nagarik News author page.
 
 ### What mental health conditions do you treat?
 We treat depression, anxiety, panic attacks, OCD, sleep problems and insomnia, stress and burnout, bipolar disorder, schizophrenia and other serious mental illness, ADHD and autism concerns in children, alcohol, tobacco and drug addiction, memory problems in older adults, and relationship or family difficulties. If your concern is not on this list, call us and we will tell you whether we can help.
