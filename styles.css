@@ -732,3 +732,21 @@ html[lang="ne"] .further h2{letter-spacing:0;text-transform:none;font-family:"No
 @media(max-width:720px){.reviews-card{padding:26px 22px}.review-actions .button{flex:1 1 100%}.map-embed,.map-embed iframe{min-height:320px}}
 .post-meta .reviewed{color:var(--deep);flex-basis:100%;font-weight:600}
 .post-meta .reviewed a{border-bottom:1px solid #b9c0ba}
+
+/* ---- "Dr. Kushal Kharel provides online psychiatry consultation" card: country pages, the Nepal page, the abroad hub */
+.provider-card{align-items:flex-start;background:#fff;border:1px solid #dfe2da;border-left:4px solid var(--coral);display:flex;gap:20px;margin:30px 0 0;padding:22px 26px}
+.provider-photo{border-radius:50%;flex:none;height:76px;object-fit:cover;object-position:50% 18%;width:76px}
+.provider-body{min-width:0}
+.provider-kicker{color:var(--coral-ink);font-size:11px;font-weight:700;letter-spacing:.12em;margin:0 0 6px;text-transform:uppercase}
+.provider-name{font-family:"Playfair Display",serif;font-size:26px;font-weight:700;line-height:1.15;margin:0}
+.provider-name a{border:0;color:var(--ink)}
+.provider-role{color:var(--muted);font-size:13.5px;margin:4px 0 0}
+.provider-text{font-size:16px;line-height:1.6;margin:12px 0 0}
+.provider-text a{border-bottom:1px solid currentColor;color:var(--coral-ink)}
+.provider-cta{margin-top:16px}
+.post-wrap>.provider-card{margin:0 0 34px;max-width:1176px}
+.hub-jump{margin:0 0 6px}
+.post-wrap>.hub-jump{max-width:1176px}
+.chip-note{color:#cbd8cf;font-size:14px;margin:14px 0 0}
+.chip-note a{border-bottom:1px solid currentColor;color:#e6b579}
+@media (max-width:640px){.provider-card{flex-direction:column;gap:14px;padding:20px}.provider-photo{height:64px;width:64px}.provider-name{font-size:23px}}
