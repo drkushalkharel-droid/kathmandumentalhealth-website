@@ -53,6 +53,8 @@
 
 ## Conditions
 
+- [Book an online video session](https://kathmandumentalhealth.com.np/book/): Choose a service and doctor, pick a time in your own time zone (shown with Nepal time) and send the request on WhatsApp. Fees Rs 1,500 to Rs 2,500.
+- [अनलाइन भिडियो सत्र बुक गर्नुहोस्](https://kathmandumentalhealth.com.np/ne/book/): Nepali version of the booking page.
 - [नेपाली पृष्ठ / Nepali version](https://kathmandumentalhealth.com.np/ne/): Psychiatry and counselling in Kathmandu in Nepali: services, doctors, fees, how to book and online care for Nepalis abroad.
 - [Trauma, PTSD and Grief in Kathmandu: Signs, Treatment and Support](https://kathmandumentalhealth.com.np/conditions/trauma-ptsd-grief-counselling-kathmandu/): Trauma, PTSD and prolonged grief: flashbacks, nightmares, numbness, trauma-focused therapy, medicine and when to see a psychiatrist.
 - [What to Expect at Your First Psychiatry Appointment](https://kathmandumentalhealth.com.np/what-to-expect/): Booking, assessment, privacy and how a plan is agreed.
