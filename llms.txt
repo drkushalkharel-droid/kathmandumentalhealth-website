@@ -1,6 +1,6 @@
 # Kathmandu Mental Health Clinic and Psychiatry Counseling Center
 
-> Psychiatry and counselling clinic in Kathmandu, Nepal. Psychiatrists and counsellors treat depression, anxiety, OCD, sleep problems, ADHD, addiction, bipolar disorder and memory concerns for children, teenagers and adults, in person at People's Plaza (New Road) and Kalanki, or online by video for Nepalis living abroad. Languages: Nepali, English, Hindi, Bangla and Tamang (varies by doctor). Phone: +9779714556408.
+> Psychiatry and counselling clinic in Kathmandu, Nepal. Psychiatrists and counsellors treat depression, anxiety, OCD, sleep problems, ADHD, addiction, bipolar disorder and memory concerns for children, teenagers and adults, in person at People's Plaza (New Road) and Kalanki, or online by video for Nepalis living abroad. Languages: Nepali, English, Hindi and Bangla. Phone: +9779714556408.
 
 ## Key facts
 
@@ -25,8 +25,6 @@
 ## Doctors
 
 - [Dr. Kushal Kharel](https://kathmandumentalhealth.com.np/doctors/dr-kushal-kharel/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Jalalabad Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 27199 · Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla; Online: Video consultation and therapy
-- [Dr. Sunita Lama](https://kathmandumentalhealth.com.np/doctors/dr-sunita-lama/): Consultant Psychiatrist; MD Neuropsychiatry: Gandaki Medical College; MBBS: Jalalabad Medical College; CBT: Certified in cognitive behavioural therapy; NMC No.: 26944 · Certified by the Nepal Medical Council; Languages: Nepali, English, Hindi, Bangla, Tamang; Online: Video consultation and therapy
-- [Dr. Bhishma K.C.](https://kathmandumentalhealth.com.np/doctors/dr-bhishma-kc/): Consultant Psychiatrist; MD Neuropsychiatry: KIST Medical College; MBBS: Nepal Medical College; CBT: Provides cognitive behavioural therapy; NMC No.: 21985 · Nepal Medical Council; Languages: Nepali, English, Hindi; Online: Video consultation and therapy
 
 ## Services
 
@@ -71,7 +69,7 @@
 ## Nepalis abroad
 
 - [International online psychiatry for people abroad](https://kathmandumentalhealth.com.np/international-psychiatry/): dedicated page for international consultation steps, Dr. Kushal Kharel’s profile, video options, bank transfer and USD/EUR/GBP payment enquiries, cross-border care limits, and clinic contact number +977 9714556408.
-- [Online psychiatrist in Nepal](https://kathmandumentalhealth.com.np/online-psychiatrist-nepal/): Dr. Kushal Kharel, founder and Consultant Psychiatrist, provides online psychiatry video consultation anywhere in Nepal through Google Meet or WhatsApp video call (or by phone), in Nepali or English. Dr. Sunita Lama and Dr. Bhishma K.C. also provide video consultation.
+- [Online psychiatrist in Nepal](https://kathmandumentalhealth.com.np/online-psychiatrist-nepal/): Dr. Kushal Kharel, founder and Consultant Psychiatrist, provides online psychiatry video consultation anywhere in Nepal through Google Meet or WhatsApp video call (or by phone), in Nepali or English.
 - [Online psychiatry and counselling for Nepalis abroad](https://kathmandumentalhealth.com.np/nepalis-abroad/): Dr. Kushal Kharel and team provide online psychiatry video consultation through Google Meet or WhatsApp video call for Nepalis in 41 countries (Gulf and Middle East, Europe, East Asia and the Pacific, Southeast Asia, South Asia, North America), with a time-zone finder.
 - [Abroad FAQ](https://kathmandumentalhealth.com.np/#abroad-faq)
 - [Online Psychiatrist for Nepalis in Qatar](https://kathmandumentalhealth.com.np/nepalis-abroad/qatar/): Dr. Kushal Kharel provides online psychiatry video consultation for Nepalis in Qatar by Google Meet or WhatsApp video call, in Nepali or English.
@@ -139,18 +137,18 @@
 - [Do you offer home visits for psychiatry?](https://kathmandumentalhealth.com.np/#faq-home-visit-psychiatrist)
 - [Where can I read patient reviews of the clinic?](https://kathmandumentalhealth.com.np/#faq-patient-reviews)
 - [Who founded Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-founded-kathmandu-mental-health-clinic)
-- [Who are the doctors at Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-are-the-doctors)
-- [What are your doctors' Nepal Medical Council registration numbers?](https://kathmandumentalhealth.com.np/#faq-nmc-registration-numbers)
+- [Who is the doctor at Kathmandu Mental Health Clinic?](https://kathmandumentalhealth.com.np/#faq-who-are-the-doctors)
+- [What is your doctor's Nepal Medical Council registration number?](https://kathmandumentalhealth.com.np/#faq-nmc-registration-numbers)
 - [Who is the best psychiatrist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-best-psychiatrist-in-kathmandu)
 - [Who is Dr. Kushal Kharel, and what is Dr. Kharel's background?](https://kathmandumentalhealth.com.np/#faq-dr-kushal-kharel-background)
 - [Who is a good psychiatrist in Kathmandu for anxiety or depression?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-for-anxiety-or-depression)
-- [What is neuropsychiatry, and do your doctors have this training?](https://kathmandumentalhealth.com.np/#faq-what-is-neuropsychiatry)
+- [What is neuropsychiatry, and does your doctor have this training?](https://kathmandumentalhealth.com.np/#faq-what-is-neuropsychiatry)
 - [What does a psychiatrist do in Nepal?](https://kathmandumentalhealth.com.np/#faq-what-does-a-psychiatrist-do)
-- [Are your doctors psychiatrists or general physicians?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-or-general-physician)
+- [Is your doctor a psychiatrist or a general physician?](https://kathmandumentalhealth.com.np/#faq-psychiatrist-or-general-physician)
 - [Can I ask to see a female or male doctor or counsellor?](https://kathmandumentalhealth.com.np/#faq-doctor-gender-preference)
 - [Will the doctor explain my diagnosis and medicines clearly?](https://kathmandumentalhealth.com.np/#faq-doctor-explains-clearly)
 - [Do you have a therapist or psychologist in Kathmandu?](https://kathmandumentalhealth.com.np/#faq-therapist-or-psychologist)
-- [Which languages do your doctors speak?](https://kathmandumentalhealth.com.np/#faq-doctor-languages)
+- [Which languages does your doctor speak?](https://kathmandumentalhealth.com.np/#faq-doctor-languages)
 - [Is Kathmandu Mental Health Clinic the same as Dr. Kushal Kharel's clinic in Kalanki?](https://kathmandumentalhealth.com.np/#faq-kharel-independent-clinic)
 - [Does Dr. Kushal Kharel write for the media?](https://kathmandumentalhealth.com.np/#faq-dr-kharel-nagarik-news)
 - [What mental health conditions do you treat?](https://kathmandumentalhealth.com.np/#faq-conditions-we-treat)
